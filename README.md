@@ -65,7 +65,6 @@ This project is a full-stack web application for managing tasks. It allows users
 
 - The frontend React application runs on http://localhost:3000.
 
-## API Endpoints
 
 ### Task Routes
 
